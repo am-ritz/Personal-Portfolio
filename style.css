@@ -490,9 +490,7 @@ section .title::after{
 }
 
 /* contact section styling */
-.contact .title::after{
-    content: "Click above icon to get in touch";
-}
+
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
